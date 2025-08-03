@@ -3,7 +3,7 @@
 ### OpenEMR Demo:
 To perform most of the practicals, use the OpenEMR demo site:
 
-🌐 [https://www.open-emr.org/demo/](OpenEMR DEMO Website)
+🌐 https://www.open-emr.org/demo
 🧑‍⚕️ **Username:** `admin`  
 🔐 **Password:** `pass`
 
